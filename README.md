@@ -1,4 +1,4 @@
-#Server Tool Application - Discord Bot Usage Policy
+# Server Tool Application - Discord Bot Usage Policy
 
 📌 Introduction
 
@@ -65,5 +65,3 @@ By adding Server Tool to your server, you agree to the following:
 For assistance, feature requests, or data removal, please contact the Server Tool Support Team.
 
 By using Server Tool, you acknowledge and accept this Usage Policy. 🚀
-
-Would you like me to add a section about feature limitations or user bans for policy violations?
